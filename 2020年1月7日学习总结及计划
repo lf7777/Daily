@@ -1,0 +1,31 @@
+日期: 2020年1月7日
+
+小组成员：
+兰鹏飞
+
+
+当前进度:
+
+Html,Css
+在禅意花园中挑选四个页面,纯手打做.
+
+
+今日完成情况:
+
+正在做第三个网页
+剩一些CSS3的内容
+总体完成百分之80以上
+
+明日计划:
+
+上午将people网页完成.
+制作的下一个网页要用到mix-weight,min-weight
+
+
+总结
+
+通过此网页熟悉了网页中划线的方法,加深了margin,padding的理解,也更会用一些了.
+position的relative第一个用处是在原地定义一个父类,给absolute使用,移动了relative之后,原本位置的文档流还在,absolute是切换到其他的文档流了,float也是,但是float想叠加的话,两个div都要float,如果是双列的,多行的就没法用float了.
+对文档流更熟悉了,文档流是一个核心内容,也就是html,这个很重要.
+渐变的用法是 background-image:linear-gradient(red,blue)
+margin:0 auto; 原理是:因为是两个值,0表示上下,auto表示左右,auto的意思是居中
